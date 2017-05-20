@@ -1,0 +1,9 @@
+## A New Post
+
+### 户外运动
+ 1. 磨房
+ 2. 去玩
+ 3. 行者
+ 4. 户外助手
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
