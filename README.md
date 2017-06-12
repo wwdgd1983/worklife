@@ -2,6 +2,7 @@
 工作思考记录
 
 ### product
+#### 产品 道 、法 、术、器、势
  1. Whole Picture 
  2. From Discover To Deliver 
 
@@ -27,6 +28,8 @@
 
 #### 好文案都是优秀的产品经理 
 > http://www.meihua.info/a/69087
+> http://www.woshipm.com/pmd/604401.html
+> 产品经理要关注的是如何提供给用户解决问题的最好方法，而不是提供给用户一个完美的产品
  1. 解决谁的问题 即 你的用户是谁 
  2. 哪些问题需要解决 即 需求 
  3. 先解决哪些问题 即 （优先级） 
