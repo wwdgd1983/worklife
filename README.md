@@ -8,7 +8,7 @@
 
 
 
-### 撰写相关需求分析的思路
+#### 撰写相关需求分析的思路
 #### AS IS ：Business Process ， IT architecture ， Data Flow  
 #### Solution 
  1. User Experience Map |  Customer Journey Map  --> 找到机会点
@@ -36,3 +36,4 @@
  3. 先解决哪些问题 即 （优先级） 
  4. 如何解决这些问题？（动作）
  5. 如何用低成本解决问题？（有效动作）
+ 6. 产品是什么，一句话简述产品经理的职责
