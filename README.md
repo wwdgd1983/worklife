@@ -11,7 +11,8 @@
 #### AS IS ：Business Process ， IT architecture ， Data Flow  
 #### Solution 
  1. User Experience Map |  Customer Journey Map  --> 找到机会点
-    + Pinterest 
+    + User Why who How What
+    + Pinterest 
  2. User Impact Map 
  3. User Story Mapping  | Story Board 
  4. Singel Story 
